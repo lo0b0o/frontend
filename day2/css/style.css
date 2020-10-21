@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#E6D57E;
+}
+
+blockquote{
+    border-left: 5px solid #544DFF;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-bottom: 0.5em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+blockquote p{
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+strong{
+    text-decoration: underline;
+}
